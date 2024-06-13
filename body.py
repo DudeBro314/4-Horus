@@ -29,7 +29,7 @@ class Fix():
         return self.copy[0]
         
 
-warrior = Bot("7150163163:AAGwpGVn7yXVXVRpnHDCYfkhPVWYSNT1XO4")
+warrior = Bot("API_CENSORED")
 dp = Dispatcher(warrior)
 
 bank = Fix()
